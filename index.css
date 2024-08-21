@@ -1,0 +1,358 @@
+.adventure {
+    margin: 0;
+}
+.adventure-voyage-wandering-container {
+    position: relative;
+    line-height: 80px;
+}
+.lorem-ipsum-dolor {
+    width: 356px;
+    position: relative;
+    font-size: 24px;
+    display: inline-block;
+}
+.contact-us {
+    position: relative;
+    line-height: 18px;
+}
+ 
+.primary-button {
+    border-radius: 36px;
+    background-color: aquamarine;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 24px 32px;
+    font-size: 20px;
+    color: blue;
+    font-family:"Jersey 10", sans-serif;
+    cursor: pointer;
+}
+
+.primary-button:hover{
+    transform: translateY(-10px);
+}
+
+.text-left {
+    position: absolute;
+    top: 88px;
+    left: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+}
+
+.lorem-ipsum-dolor-container {
+    width: 280px;
+    position: relative;
+    display: inline-block;
+}
+
+.trave-explore-discover-container {
+    position: relative;
+    font-size: 64px;
+    line-height: 84px;
+}
+
+.text-right {
+    position: absolute;
+    top: 528px;
+    left: 1028px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 40px;
+    font-size: 24px;
+}
+
+.image-middle-child {
+    position: absolute;
+    top: 69px;
+    left: 21px;
+    border-radius: 272px;
+    width: 374px;
+    height: 640px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.p {
+    position: absolute;
+    top: 112.44px;
+    left: 0px;
+    transform:  rotate(-54.3deg);
+    transform-origin: 0 0;
+}
+
+.l {
+    position: absolute;
+    top: 87.41px;
+    left: 18.89px;
+    transform:  rotate(-48.3deg);
+    transform-origin: 0 0;
+}
+
+.a {
+    position: absolute;
+    top: 72.64px;
+    left: 32.37px;
+    transform:  rotate(-43deg);
+    transform-origin: 0 0;
+}
+
+.n {
+    position: absolute;
+    top: 54.82px;
+    left: 52.12px;
+    transform:  rotate(-36.6deg);
+    transform-origin: 0 0;
+}
+
+.t {
+    position: absolute;
+    top: 38.53px;
+    left: 75.06px;
+    transform:  rotate(-31deg);
+    transform-origin: 0 0;
+}
+
+.div1 {
+    position: absolute;
+    top: 28.81px;
+    left: 91.84px;
+    transform:  rotate(-26.7deg);
+    transform-origin: 0 0;
+}
+
+.div2 {
+    position: absolute;
+    top: 21.28px;
+    left: 107.35px;
+    transform:  rotate(-22.8deg);
+    transform-origin: 0 0;
+}
+
+.div3 {
+    position: absolute;
+    top: 14.84px;
+    left: 123.34px;
+    transform:  rotate(-18.8deg);
+    transform-origin: 0 0;
+}
+
+.t1 {
+    position: absolute;
+    top: 8.98px;
+    left: 140.77px;
+    transform:  rotate(-12.8deg);
+    transform-origin: 0 0;
+}
+
+.r {
+    position: absolute;
+    top: 2.32px;
+    left: 173.76px;
+    transform:  rotate(-6.3deg);
+    transform-origin: 0 0;
+}
+
+.e {
+    position: absolute;
+    top: 0.21px;
+    left: 195.81px;
+    transform:  rotate(-0.7deg);
+    transform-origin: 0 0;
+}
+
+.e1 {
+    position: absolute;
+    top: 0.35px;
+    left: 222.25px;
+    transform:  rotate(5.4deg);
+    transform-origin: 0 0;
+}
+
+.div4 {
+    position: absolute;
+    top: 3.33px;
+    left: 247.92px;
+    transform:  rotate(10.5deg);
+    transform-origin: 0 0;
+}
+
+.div5 {
+    position: absolute;
+    top: 6.72px;
+    left: 264.82px;
+    transform:  rotate(14.5deg);
+    transform-origin: 0 0;
+}
+
+.div6 {
+    position: absolute;
+    top: 11.28px;
+    left: 281.45px;
+    transform:  rotate(18.5deg);
+    transform-origin: 0 0;
+}
+
+.n1 {
+    position: absolute;
+    top: 17.17px;
+    left: 299.2px;
+    transform:  rotate(25deg);
+    transform-origin: 0 0;
+}
+
+.a1 {
+    position: absolute;
+    top: 34.23px;
+    left: 333.44px;
+    transform:  rotate(32.6deg);
+    transform-origin: 0 0;
+}
+
+.t2 {
+    position: absolute;
+    top: 48.65px;
+    left: 355.06px;
+    transform:  rotate(37.9deg);
+    transform-origin: 0 0;
+}
+
+.u {
+    position: absolute;
+    top: 61.19px;
+    left: 370.83px;
+    transform:  rotate(43.5deg);
+    transform-origin: 0 0;
+}
+
+.r1 {
+    position: absolute;
+    top: 81.08px;
+    left: 390.95px;
+    transform:  rotate(49.4deg);
+    transform-origin: 0 0;
+}
+
+.e2 {
+    position: absolute;
+    top: 98.08px;
+    left: 405.14px;
+    transform:  rotate(54.9deg);
+    transform-origin: 0 0;
+}
+
+.group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 415.5px;
+    height: 139.3px;
+}
+
+.image-middle {
+    position: absolute;
+    top: 180px;
+    left: 512px;
+    width: 415.5px;
+    height: 709px;
+    font-size: 40px;
+    color: #0d261b;
+}
+
+.images-right-child {
+    position: absolute;
+    top: 105px;
+    left: 208px;
+    border-radius: 128px;
+    width: 184px;
+    height: 316px;
+    object-fit: cover;
+}
+
+.images-right-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 120px;
+    width: 184px;
+    height: 316px;
+    object-fit: cover;
+}
+
+.images-right {
+    position: absolute;
+    top: 66px;
+    left: 984px;
+    width: 392px;
+    height: 421px;
+}
+
+.images-left-child {
+    position: absolute;
+    top: 66.21px;
+    left: 0px;
+    border-radius: 119.36px;
+    width: 176px;
+    height: 298px;
+    object-fit: cover;
+}
+
+.images-left-item {
+    position: absolute;
+    top: 0px;
+    left: 197.69px;
+    border-radius: 111.9px;
+    width: 176px;
+    height: 298px;
+    object-fit: cover;
+}
+
+.images-left {
+    position: absolute;
+    top: 595.39px;
+    left: 64px;
+    width: 373.7px;
+    height: 364.2px;
+}
+
+.child {
+    position: absolute;
+    top: 423px;
+    left: 1028px;
+    width: 80px;
+    height: 80px;
+}
+
+.item {
+    position: absolute;
+    top: 163px;
+    left: 396px;
+    width: 80px;
+    height: 80px;
+}
+
+.div {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 64px;
+    color: #252525;
+    font-family: Times;
+}
+
+@media (max-width:780px) {
+    body{
+        font-size: 780px;
+    }
+}
